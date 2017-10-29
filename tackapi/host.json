@@ -3,7 +3,5 @@
   "Values": {
     "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=tackapi2017102806455;AccountKey=EKFZo66P+YzJ/sJ33vw3Cb0ecnpAIx8tu6O3fsmY5X8ydFOp74Mq0GEBqmddSJe4fg987g4m17gR63nz4OQvQw==;EndpointSuffix=core.windows.net",
     "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=tackapi2017102806455;AccountKey=EKFZo66P+YzJ/sJ33vw3Cb0ecnpAIx8tu6O3fsmY5X8ydFOp74Mq0GEBqmddSJe4fg987g4m17gR63nz4OQvQw==;EndpointSuffix=core.windows.net"
-  },
-  "APPINSIGHTS_INSTRUMENTATIONKEY":
-  "c95998c0-ca14-46ed-88f3-eb7f5971ba21"
+  }
 }
